@@ -1,4 +1,4 @@
-# deep-learning-challenge - Module 21 Challenge
+# Deep-learning-challenge 
 
 ### Background
 
